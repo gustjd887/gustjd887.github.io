@@ -1,7 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="8e81c936-1976-4c43-9557-71672db58426" name="Default Changelist" comment="delete site folder" />
+    <list default="true" id="8e81c936-1976-4c43-9557-71672db58426" name="Default Changelist" comment="first commit">
+      <change afterPath="$PROJECT_DIR$/docs/docker/Github Pages - Material for MkDocs.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/mkdocs.yml" beforeDir="false" afterPath="$PROJECT_DIR$/mkdocs.yml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -20,7 +23,7 @@
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/docs/docker" />
     <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
@@ -33,6 +36,7 @@
       <updated>1598524788567</updated>
       <workItem from="1598524790220" duration="275000" />
       <workItem from="1598525124745" duration="1273000" />
+      <workItem from="1598526443185" duration="1928000" />
     </task>
     <task id="LOCAL-00001" summary="test commit">
       <created>1598525251758</created>
@@ -55,7 +59,14 @@
       <option name="project" value="LOCAL" />
       <updated>1598526113230</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="first commit">
+      <created>1598526486765</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1598526486765</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -65,24 +76,29 @@
     <MESSAGE value="test commit" />
     <MESSAGE value="test commit2" />
     <MESSAGE value="delete site folder" />
-    <option name="LAST_COMMIT_MESSAGE" value="delete site folder" />
+    <MESSAGE value="first commit" />
+    <option name="LAST_COMMIT_MESSAGE" value="first commit" />
   </component>
   <component name="WindowStateProjectService">
     <state x="740" y="261" key="FileChooserDialogImpl" timestamp="1598525190106">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="740" y="261" key="FileChooserDialogImpl/-1920.0.1920.1040/0.0.1920.1040@0.0.1920.1040" timestamp="1598525190106" />
-    <state x="805" y="417" key="Github.ShareDialog" timestamp="1598525275112">
+    <state x="805" y="417" key="Github.ShareDialog" timestamp="1598526457629">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="805" y="417" key="Github.ShareDialog/-1920.0.1920.1040/0.0.1920.1040@0.0.1920.1040" timestamp="1598525275112" />
+    <state x="805" y="417" key="Github.ShareDialog/-1920.0.1920.1040/0.0.1920.1040@0.0.1920.1040" timestamp="1598526457629" />
+    <state x="716" y="224" key="Github.UntrackedFilesDialog" timestamp="1598526464641">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="716" y="224" key="Github.UntrackedFilesDialog/-1920.0.1920.1040/0.0.1920.1040@0.0.1920.1040" timestamp="1598526464641" />
     <state x="461" y="164" key="SettingsEditor" timestamp="1598525174363">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="461" y="164" key="SettingsEditor/-1920.0.1920.1040/0.0.1920.1040@0.0.1920.1040" timestamp="1598525174363" />
-    <state x="552" y="253" key="Vcs.Push.Dialog.v2" timestamp="1598526119748">
+    <state x="552" y="253" key="Vcs.Push.Dialog.v2" timestamp="1598526532814">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="552" y="253" key="Vcs.Push.Dialog.v2/-1920.0.1920.1040/0.0.1920.1040@0.0.1920.1040" timestamp="1598526119748" />
+    <state x="552" y="253" key="Vcs.Push.Dialog.v2/-1920.0.1920.1040/0.0.1920.1040@0.0.1920.1040" timestamp="1598526532814" />
   </component>
 </project>
