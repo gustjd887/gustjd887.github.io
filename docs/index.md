@@ -1,31 +1,7 @@
-# Welcome to MkDocs
+# index.md
 
-For full documentation visit [mkdocs.org](https://www.mkdocs.org).
+## 삽질하는 고슴도치의 Portfolio 페이지입니다.
 
-## Commands
+![https://s3.us-west-2.amazonaws.com/secure.notion-static.com/1456c316-dffd-4ab1-a803-df80405670da/Hedgehog-autumn_1920x1200.jpg?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAT73L2G45O3KS52Y5%2F20200827%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20200827T125514Z&X-Amz-Expires=86400&X-Amz-Signature=2f6bd5ab3816760b0c86e137278888dbfdf836f9c0300e9449de59d57d9a65c5&X-Amz-SignedHeaders=host&response-content-disposition=filename %3D"Hedgehog-autumn_1920x1200.jpg"](https://s3.us-west-2.amazonaws.com/secure.notion-static.com/1456c316-dffd-4ab1-a803-df80405670da/Hedgehog-autumn_1920x1200.jpg?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAT73L2G45O3KS52Y5%2F20200827%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20200827T125514Z&X-Amz-Expires=86400&X-Amz-Signature=2f6bd5ab3816760b0c86e137278888dbfdf836f9c0300e9449de59d57d9a65c5&X-Amz-SignedHeaders=host&response-content-disposition=filename%20%3D%22Hedgehog-autumn_1920x1200.jpg%22)
 
-* `mkdocs new [dir-name]` - Create a new project.
-* `mkdocs serve` - Start the live-reloading docs server.
-* `mkdocs build` - Build the documentation site.
-* `mkdocs -h` - Print help message and exit.
-
-## Project layout
-
-    mkdocs.yml    # The configuration file.
-    docs/
-        index.md  # The documentation homepage.
-        ...       # Other markdown pages, images and other files.
-
-## Commands
-
-* `mkdocs new [dir-name]` - Create a new project.
-* `mkdocs serve` - Start the live-reloading docs server.
-* `mkdocs build` - Build the documentation site.
-* `mkdocs -h` - Print help message and exit.
-
-## Project layout
-
-    mkdocs.yml    # The configuration file.
-    docs/
-        index.md  # The documentation homepage.
-        ...       # Other markdown pages, images and other files.
+이 페이지는 MkDocs로 만들어 졌으며 Material 테마를 사용중입니다.
