@@ -1,5 +1,5 @@
 site_name: 삽질하는 고슴도치
-site_url: https://gustjd887.github.io
+site_url: gustjd887.github.io
 theme:
   name: material
   language: kr
@@ -8,7 +8,7 @@ theme:
   palette:
     scheme: slate
 extra:
-  disqus: <gustjd887.github.io>
+  disqus: gustjd887.github.io
 nav:
   - reference:
     - start: reference/index.md
