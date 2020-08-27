@@ -6,9 +6,6 @@ theme:
     - tabs
   palette:
     scheme: slate
-  markdown_extensions:
-    - toc:
-        permalink: true
 
 nav:
   - reference:
