@@ -19,10 +19,7 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="8e81c936-1976-4c43-9557-71672db58426" name="Default Changelist" comment="image test">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/index.md" beforeDir="false" afterPath="$PROJECT_DIR$/docs/index.md" afterDir="false" />
-    </list>
+    <list default="true" id="8e81c936-1976-4c43-9557-71672db58426" name="Default Changelist" comment="update index.md" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -60,7 +57,7 @@
       <workItem from="1598524790220" duration="275000" />
       <workItem from="1598525124745" duration="1273000" />
       <workItem from="1598526443185" duration="2693000" />
-      <workItem from="1598531770814" duration="924000" />
+      <workItem from="1598531770814" duration="1528000" />
     </task>
     <task id="LOCAL-00001" summary="test commit">
       <created>1598525251758</created>
@@ -111,7 +108,14 @@
       <option name="project" value="LOCAL" />
       <updated>1598531866592</updated>
     </task>
-    <option name="localTasksCounter" value="8" />
+    <task id="LOCAL-00008" summary="update index.md">
+      <created>1598533130772</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1598533130772</updated>
+    </task>
+    <option name="localTasksCounter" value="9" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -136,7 +140,8 @@
     <MESSAGE value="add MkDocs" />
     <MESSAGE value="edit MkDocs path and file name" />
     <MESSAGE value="image test" />
-    <option name="LAST_COMMIT_MESSAGE" value="image test" />
+    <MESSAGE value="update index.md" />
+    <option name="LAST_COMMIT_MESSAGE" value="update index.md" />
   </component>
   <component name="WindowStateProjectService">
     <state x="740" y="261" key="FileChooserDialogImpl" timestamp="1598525190106">
@@ -155,9 +160,9 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="461" y="164" key="SettingsEditor/-1920.0.1920.1040/0.0.1920.1040@0.0.1920.1040" timestamp="1598525174363" />
-    <state x="552" y="253" key="Vcs.Push.Dialog.v2" timestamp="1598531870387">
+    <state x="552" y="253" key="Vcs.Push.Dialog.v2" timestamp="1598533135166">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="552" y="253" key="Vcs.Push.Dialog.v2/-1920.0.1920.1040/0.0.1920.1040@0.0.1920.1040" timestamp="1598531870387" />
+    <state x="552" y="253" key="Vcs.Push.Dialog.v2/-1920.0.1920.1040/0.0.1920.1040@0.0.1920.1040" timestamp="1598533135166" />
   </component>
 </project>
