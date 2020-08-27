@@ -6,7 +6,8 @@ theme:
     - tabs
   palette:
     scheme: slate
-
+extra:
+  disqus: gustjd887
 nav:
   - reference:
     - start: reference/index.md
