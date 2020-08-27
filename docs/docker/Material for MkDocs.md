@@ -19,3 +19,5 @@ pip, docker, git 세 가지 방법으로 사용이 가능하지만, Docker
 ## 설치
 
 1.
+
+![이미지 링크](https://s3.us-west-2.amazonaws.com/secure.notion-static.com/29b8fdb6-b1bb-415b-b419-f20417b42535/Untitled.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAT73L2G45O3KS52Y5%2F20200827%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20200827T123517Z&X-Amz-Expires=86400&X-Amz-Signature=e114c3532e24be6e057dd4a31205505d3282940a3b7c8b42a01d7bc015387bbf&X-Amz-SignedHeaders=host&response-content-disposition=filename%20%3D%22Untitled.png%22)

@@ -1,9 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="8e81c936-1976-4c43-9557-71672db58426" name="Default Changelist" comment="first commit">
-      <change afterPath="$PROJECT_DIR$/docs/docker/Github Pages - Material for MkDocs.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/mkdocs.yml" beforeDir="false" afterPath="$PROJECT_DIR$/mkdocs.yml" afterDir="false" />
+    <list default="true" id="8e81c936-1976-4c43-9557-71672db58426" name="Default Changelist" comment="edit MkDocs path and file name">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -26,6 +25,11 @@
     <property name="last_opened_file_path" value="$PROJECT_DIR$/docs/docker" />
     <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
   </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\gustjd887\Documents\Docker\gustjd887.github.io\docs\docker" />
+    </key>
+  </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
@@ -36,7 +40,7 @@
       <updated>1598524788567</updated>
       <workItem from="1598524790220" duration="275000" />
       <workItem from="1598525124745" duration="1273000" />
-      <workItem from="1598526443185" duration="1928000" />
+      <workItem from="1598526443185" duration="2693000" />
     </task>
     <task id="LOCAL-00001" summary="test commit">
       <created>1598525251758</created>
@@ -66,7 +70,21 @@
       <option name="project" value="LOCAL" />
       <updated>1598526486765</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="add MkDocs">
+      <created>1598529841846</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1598529841846</updated>
+    </task>
+    <task id="LOCAL-00006" summary="edit MkDocs path and file name">
+      <created>1598530376353</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1598530376353</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -77,7 +95,9 @@
     <MESSAGE value="test commit2" />
     <MESSAGE value="delete site folder" />
     <MESSAGE value="first commit" />
-    <option name="LAST_COMMIT_MESSAGE" value="first commit" />
+    <MESSAGE value="add MkDocs" />
+    <MESSAGE value="edit MkDocs path and file name" />
+    <option name="LAST_COMMIT_MESSAGE" value="edit MkDocs path and file name" />
   </component>
   <component name="WindowStateProjectService">
     <state x="740" y="261" key="FileChooserDialogImpl" timestamp="1598525190106">
@@ -96,9 +116,9 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="461" y="164" key="SettingsEditor/-1920.0.1920.1040/0.0.1920.1040@0.0.1920.1040" timestamp="1598525174363" />
-    <state x="552" y="253" key="Vcs.Push.Dialog.v2" timestamp="1598526532814">
+    <state x="552" y="253" key="Vcs.Push.Dialog.v2" timestamp="1598530380034">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="552" y="253" key="Vcs.Push.Dialog.v2/-1920.0.1920.1040/0.0.1920.1040@0.0.1920.1040" timestamp="1598526532814" />
+    <state x="552" y="253" key="Vcs.Push.Dialog.v2/-1920.0.1920.1040/0.0.1920.1040@0.0.1920.1040" timestamp="1598530380034" />
   </component>
 </project>
