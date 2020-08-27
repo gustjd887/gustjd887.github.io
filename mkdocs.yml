@@ -5,7 +5,8 @@ theme:
   features:
     - tabs
   palette:
-    scheme: brown
+    scheme: slate
+    primary: brown
     accent: deep orange
 
 nav:
