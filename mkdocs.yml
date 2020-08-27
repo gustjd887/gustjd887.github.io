@@ -1,0 +1,15 @@
+site_name: 삽질하는 고슴도치
+theme:
+  name: material
+  language: kr
+  features:
+    - tabs
+  palette:
+    scheme: slate
+
+nav:
+  - reference:
+    - start: reference/index.md
+    - test1: reference/test1.md
+  - docker:
+    - portainer: docker/portainer.md
