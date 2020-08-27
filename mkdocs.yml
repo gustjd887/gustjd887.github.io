@@ -13,4 +13,4 @@ nav:
     - test1: reference/test1.md
   - docker:
     - portainer: docker/portainer.md
-    - MkDocs: Github Pages - Material for MkDocs.md
+    - MkDocs: docker/Material for MkDocs.md
