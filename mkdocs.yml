@@ -6,8 +6,6 @@ theme:
     - tabs
   palette:
     scheme: slate
-    primary: brown
-    accent: deep orange
 
 nav:
   - reference:
