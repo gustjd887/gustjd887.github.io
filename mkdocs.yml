@@ -16,3 +16,6 @@ nav:
   - docker:
     - portainer: docker/portainer.md
     - MkDocs: docker/Material for MkDocs.md
+    - Docker-Compose:
+      - docker-compose: docker/Docker-Compose/Material for MkDocs.md
+      - portainer: docker/Docker-Compose/portainer.md
