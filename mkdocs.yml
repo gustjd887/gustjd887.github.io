@@ -7,8 +7,8 @@ theme:
     - tabs
   palette:
     scheme: slate
-extra:
-  disqus: gustjd887-github-io
+# extra:
+#   disqus: gustjd887-github-io
 nav:
   - reference:
     - start: reference/index.md
