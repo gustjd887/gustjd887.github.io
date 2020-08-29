@@ -12,7 +12,7 @@ theme:
 markdown_extensions:
   - def_list
 nav:
-  - Issue Collector:
-    - 소개: Issue Collector/소개.md
+  - IssueCollector:
+    - 소개: IssueCollector/소개.md
     - 개발:
-      - 환경: Issue Collector/개발/환경.md
+      - 환경: IssueCollector/개발/환경.md
