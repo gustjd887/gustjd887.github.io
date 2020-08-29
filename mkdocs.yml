@@ -9,6 +9,9 @@ theme:
     scheme: slate
 # extra:
 #   disqus: gustjd887-github-io
+markdown_extensions:
+  - pymdownx.tasklist:
+      custom_checkbox: true
 nav:
   - Issue Collector:
     - 소개: Issue Collector/소개.md
