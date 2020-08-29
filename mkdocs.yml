@@ -10,5 +10,6 @@ theme:
 # extra:
 #   disqus: gustjd887-github-io
 nav:
+  - Home: index.md
   - Issue Collector:
-    - 소개: Issue Collector/index.md
+    - 소개: Issue Collector/소개.md
