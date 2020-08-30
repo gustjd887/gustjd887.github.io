@@ -10,11 +10,11 @@ theme:
 # extra:
 #   disqus: gustjd887-github-io
 markdown_extensions:
-  - def_li개요
+  - def_li
 nav:
-  - IssueCollector:
+  - IssueCollector배
     - 개요: IssueCollector/개요.md
     - 개발: IssueCollector/개발.md
     - 배포:
-      - 클라우드: IssueCollector개요포/클라우드.md
+      - 클라우드: IssueCollector/배포/클라우드.md
       - 도커: IssueCollector/배포/도커.md
