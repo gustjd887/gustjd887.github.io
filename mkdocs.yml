@@ -11,6 +11,7 @@ theme:
 #   disqus: gustjd887-github-io
 markdown_extensions:
   - def_list
+  - attr_list
 nav:
   - IssueCollector:
     - 소개: IssueCollector/소개.md
