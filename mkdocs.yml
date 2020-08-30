@@ -10,7 +10,7 @@ theme:
 # extra:
 #   disqus: gustjd887-github-io
 markdown_extensions:
-  - def_li
+  - def_list
 nav:
   - IssueCollector
     - 개요: IssueCollector/개요.md
