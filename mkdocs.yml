@@ -12,9 +12,11 @@ theme:
 markdown_extensions:
   - def_li
 nav:
-  - IssueCollector배
+  - IssueCollector
     - 개요: IssueCollector/개요.md
     - 개발: IssueCollector/개발.md
     - 배포:
       - 클라우드: IssueCollector/배포/클라우드.md
       - 도커: IssueCollector/배포/도커.md
+  - PyBlog
+    - 개요: PyBlog/개요.md
