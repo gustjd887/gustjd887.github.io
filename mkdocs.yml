@@ -7,8 +7,8 @@ theme:
     - tabs
   palette:
     scheme: slate
-  logo: images/logo/hedgehog.png
-  favicon: images/logo/hedgehog.png
+  # logo: images/logo/hedgehog.png
+  # favicon: images/logo/hedgehog.png
 # extra:
 #   disqus: gustjd887-github-io
 markdown_extensions:
