@@ -14,6 +14,8 @@ theme:
 markdown_extensions:
   - def_list
 nav:
+  - HOME:
+    - 홈: index.md
   - IssueCollector:
     - 개요: IssueCollector/개요.md
     - 개발: IssueCollector/개발.md
