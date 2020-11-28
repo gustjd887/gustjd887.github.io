@@ -5,8 +5,8 @@ theme:
   language: kr
   palette:
     scheme: slate
-    features:
-      - navigation.tabs
+  features:
+    - navigation.tabs
   # logo: images/logo/hedgehog.png
   # favicon: images/logo/hedgehog.png
 # extra:
