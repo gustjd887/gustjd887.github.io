@@ -1,25 +1,42 @@
-site_name: 삽질하는 고슴도치
+site_name: Issue Project
 site_url: https://gustjd887.github.io
+repo_url: https://github.com/gustjd887
+edit_uri: ""
+# copyright: Copyright &copy; 2019 - 2020 gustjd887
 theme:
   name: material
   language: kr
   palette:
     scheme: slate
-  features:
-    - navigation.tabs
-  # logo: images/logo/hedgehog.png
-  # favicon: images/logo/hedgehog.png
-# extra:
-#   disqus: gustjd887-github-io
-markdown_extensions:
-  - def_list
+  # features:
+  #   - navigation.tabs
 nav:
-  - IssueCollector:
-    - 개요: IssueCollector/개요.md
-    - 개발: IssueCollector/개발.md
-    - 배포:
-      - 클라우드: IssueCollector/배포/클라우드.md
-      - 도커: IssueCollector/배포/도커.md
-  - PyBlog:
-    - 개요: PyBlog/개요.md
-    - 진행중..: PyBlog/진행중.md
+  - 홈: index.md
+  - 개발:
+    - Issue Site: Development 487bbf9393154af59112f13193012e32/Issue Site a8cfdacdda3044e68a16ea195673d2e5.md
+    - Issue Collector: Development 487bbf9393154af59112f13193012e32/Issue Collector 4f53281392da417f9473e6b2e909e1f2.md
+    - Issue Admin: Development 487bbf9393154af59112f13193012e32/Issue Admin a0ba9f16fbf049f3b684ae5a596cf13a.md
+  - 배포:
+    - Kubernetes: Deployment dcf013b07d0746eb84605d38ef7e98b3/Kubernetes 9ee16a8448ab4aaa87abd0a288d01a20.md
+    - AWS: Deployment dcf013b07d0746eb84605d38ef7e98b3/AWS e7393387e6a24494b9bde2961ca3fed2.md
+    - Docker-Compose: Deployment dcf013b07d0746eb84605d38ef7e98b3/Docker-Compose 12d1029832874e1ca28062904fd2caad.md
+extra:
+  social:
+    - icon: fontawesome/solid/blog
+      link: https://gustjd887.tistory.com
+      name: Tistory Blog
+    - icon: fontawesome/regular/window-maximize
+      link: http://issue.xu4.zz.am
+      name: Project Site
+    - icon: fontawesome/brands/github
+      link: https://github.com/gustjd887
+      name: Github
+    - icon: fontawesome/brands/docker
+      link: https://hub.docker.com/u/gustjd887
+      name: Docker hub
+    - icon: fontawesome/solid/certificate
+      link: https://www.youracclaim.com/users/hyeonseong-park/badges
+      name: Certificate
+    - icon: fontawesome/solid/paper-plane
+      link: mailto:gustjd887@gmail.com
+      name: Email
