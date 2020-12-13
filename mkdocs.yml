@@ -19,7 +19,7 @@ nav:
   - 배포:
     - Kubernetes: Deployment dcf013b07d0746eb84605d38ef7e98b3/Kubernetes 9ee16a8448ab4aaa87abd0a288d01a20.md
     - AWS: Deployment dcf013b07d0746eb84605d38ef7e98b3/AWS e7393387e6a24494b9bde2961ca3fed2.md
-    - Docker-Compose: Deployment dcf013b07d0746eb84605d38ef7e98b3/Docker Compose 12d1029832874e1ca28062904fd2caad.md
+    - Docker Compose: Deployment dcf013b07d0746eb84605d38ef7e98b3/Docker Compose 12d1029832874e1ca28062904fd2caad.md
 extra:
   social:
     - icon: fontawesome/solid/blog
