@@ -48,10 +48,10 @@ Oracle Cloud에 K3S를 설치하여 Issue Project를 배포 및 서비스한다.
 
 ![Kubernetes%209ee16a8448ab4aaa87abd0a288d01a20/cli-.jpg](Kubernetes%209ee16a8448ab4aaa87abd0a288d01a20/cli-.jpg)
 
+![Kubernetes%209ee16a8448ab4aaa87abd0a288d01a20/Untitled%201.png](Kubernetes%209ee16a8448ab4aaa87abd0a288d01a20/Untitled%201.png)
+
 ![Kubernetes%209ee16a8448ab4aaa87abd0a288d01a20/cli-%201.jpg](Kubernetes%209ee16a8448ab4aaa87abd0a288d01a20/cli-%201.jpg)
 
 ![Kubernetes%209ee16a8448ab4aaa87abd0a288d01a20/cli-%202.jpg](Kubernetes%209ee16a8448ab4aaa87abd0a288d01a20/cli-%202.jpg)
 
 ![Kubernetes%209ee16a8448ab4aaa87abd0a288d01a20/cli-%203.jpg](Kubernetes%209ee16a8448ab4aaa87abd0a288d01a20/cli-%203.jpg)
-
-![Kubernetes%209ee16a8448ab4aaa87abd0a288d01a20/cli-%204.jpg](Kubernetes%209ee16a8448ab4aaa87abd0a288d01a20/cli-%204.jpg)
