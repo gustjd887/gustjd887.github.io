@@ -17,9 +17,11 @@ nav:
     - Issue Collector: Development 487bbf9393154af59112f13193012e32/Issue Collector 4f53281392da417f9473e6b2e909e1f2.md
     - Issue Admin: Development 487bbf9393154af59112f13193012e32/Issue Admin a0ba9f16fbf049f3b684ae5a596cf13a.md
   - 배포:
-    - Kubernetes: Deployment dcf013b07d0746eb84605d38ef7e98b3/Kubernetes 9ee16a8448ab4aaa87abd0a288d01a20.md
-    - AWS: Deployment dcf013b07d0746eb84605d38ef7e98b3/AWS e7393387e6a24494b9bde2961ca3fed2.md
-    - Docker Compose: Deployment dcf013b07d0746eb84605d38ef7e98b3/Docker Compose 12d1029832874e1ca28062904fd2caad.md
+    - Github Action: Deploy ce570c6eea7d4b19a2c84703d0134c3a/GIthub Action b7f48d0d71b24a4aba01de217ab5a5b8.md
+  - 서비스:
+    - Kubernetes: Service dcf013b07d0746eb84605d38ef7e98b3/Kubernetes 9ee16a8448ab4aaa87abd0a288d01a20.md
+    - AWS: Service dcf013b07d0746eb84605d38ef7e98b3/AWS e7393387e6a24494b9bde2961ca3fed2.md
+    - Docker: Service dcf013b07d0746eb84605d38ef7e98b3/Docker Compose 12d1029832874e1ca28062904fd2caad.md
 extra:
   social:
     - icon: fontawesome/solid/blog
