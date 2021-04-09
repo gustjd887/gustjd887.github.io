@@ -17,7 +17,8 @@ nav:
     - Issue Collector: Development 487bbf9393154af59112f13193012e32/Issue Collector 4f53281392da417f9473e6b2e909e1f2.md
     - Issue Admin: Development 487bbf9393154af59112f13193012e32/Issue Admin a0ba9f16fbf049f3b684ae5a596cf13a.md
   - 배포:
-    - Github Action: Deploy ce570c6eea7d4b19a2c84703d0134c3a/GIthub Action b7f48d0d71b24a4aba01de217ab5a5b8.md
+    - Gitlab : Deploy ce570c6eea7d4b19a2c84703d0134c3a/Gitlab 1143fa2fc3214f7ebf7fb75bc642865f.md
+    - Github: Deploy ce570c6eea7d4b19a2c84703d0134c3a\GIthub b7f48d0d71b24a4aba01de217ab5a5b8.md
   - 서비스:
     - Kubernetes: Service dcf013b07d0746eb84605d38ef7e98b3/Kubernetes 9ee16a8448ab4aaa87abd0a288d01a20.md
     - AWS: Service dcf013b07d0746eb84605d38ef7e98b3/AWS e7393387e6a24494b9bde2961ca3fed2.md
